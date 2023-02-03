@@ -65,4 +65,4 @@ $ vendor/bin/phpunit
 ```
 
 ## Donations
-**Tron(TRX)**: TRWBqiqoFZysoAeyR1J35ibuyc8EvhUAoY
+**Tron(TRX)**: TWuZEaKNGdTuaDCuoxhxKgDcRAaR5EA888
